@@ -5,13 +5,6 @@
 // // }
 // // console.log(power(7,3))
 
-
-// // 1. Power Function
-// function power(a, b) {
-//     return Math.pow(a, b);
-// }
-// console.log("Power(2, 3):", power(2, 3));
-
 // // 2. Leap Year Check
 // function isLeapYear(year) {
 //     return (year % 4 === 0 && year % 100 !== 0) || (year % 400 === 0);
